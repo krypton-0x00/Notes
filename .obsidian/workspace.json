@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "ec99286dfec586c5",
         "id": "c7bf4d93766407c5",
         "type": "tabs",
         "children": [
           {
+            "id": "54fd2ed751a8c218",
             "id": "bd422c3bc65ec3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "GO/Goroutines.md",
                 "file": "OpenAPI Specs/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Goroutines"
               "title": "Basics"
             }
           },
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5026054382324
+    "width": 280.5110321044922
   },
   "right": {
     "id": "a0fc0355653b705b",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RUST/FastLinking/Fastlinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Fastlinking"
             }
           },
           {
@@ -124,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RUST/FastLinking/Fastlinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Fastlinking"
             }
           },
           {
@@ -154,7 +160,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +179,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "active": "54fd2ed751a8c218",
   "active": "65a9fbd0fbace787",
   "lastOpenFiles": [
+    "GO/Goroutines.md",
+    "GO",
     "excalibrain.md",
     "Resume.pdf",
     "Threesome.pdf",
@@ -193,14 +203,47 @@
     "Canvas/basic animation.md",
     "Canvas",
     "RUST/22. Smart Pointers.md",
-    "RUST/21. Iterators.md",
-    "RUST/CommandLine/1. Command Line Args..md",
-    "RUST/CommandLine",
-    "RUST/20. Files in rust.md",
-    "RUST/19. Working with binary.md",
     "RUST/18. OOP in rust.md",
-    "RUST/17. Match  Guard.md",
+    "RUST/_. methods.md",
+    "Books/The Rust Programming Language ( PDFDrive ).pdf",
+    "Books/zero-to-production-in-rust-an-introduction-to-backend-development-9798847211437_compress.pdf",
     "RUST/16. if Let.md",
+    "RUST/11. Strings.md",
+    "RUST/10. TUPLES.md",
+    "RUST/FastLinking/Fastlinking.md",
+    "RUST/FastLinking",
+    "DSA/LinkedList/Problems.md",
+    "DSA/LinkedList/Linked List.md",
+    "DSA/LinkedList/Doubly Linked Lists.md",
+    "DSA/LinkedList/LinkedLists.md",
+    "Algorithms/Recursion/Recursion.md",
+    "DSA/Sorting/Quick sort.md",
+    "DSA/Sorting/Merge Sort.md",
+    "DSA/Sorting/Bubble Sort.md",
+    "DataStructures/Hashmaps/Questions/383. Ransom Note.md",
+    "DataStructures/queue/Queues.md",
+    "DataStructures/Stacks/Stacks.md",
+    "DataStructures/Arrays/Sorting/977. Squares of a Sorted Array.md",
+    "Generative AI/1. Gen AI pipeline.md",
+    "IMAGES/Pasted image 20241103110116.png",
+    "IMAGES/Pasted image 20241103110032.png",
+    "DataStructures/Arrays/questions/4. How Many Numbers Are Smaller Than the Current Number.md",
+    "Generative AI",
+    "DataStructures/Arrays/questions/3. Find all Numbers dissappered.md",
+    "RUST/26. Declarative Macros.md",
+    "Untitled.md",
+    "RUST/25. Networking In rust.md",
+    "DataStructures/Arrays/questions",
+    "IMAGES/Pasted image 20241101195937.png",
+    "IMAGES/Pasted image 20241101195859.png",
+    "RUST/crate",
+    "IMAGES/Pasted image 20241031185423.png",
+    "IMAGES/Pasted image 20241031185413.png",
+    "OS theory",
+    "Operating System In RUst",
+    "IMAGES/Pasted image 20241026113037.png",
+    "IMAGES/Pasted image 20241026113020.png",
+    "Canvas",
     "RUST/15. Generic Types , Traits , Lifetimes.md",
     "RUST/14. USER INPUT.md",
     "RUST/13. Structs.md",
@@ -213,10 +256,8 @@
     "OpenAPI Specs",
     "IMAGES/Pasted image 20241013120425.png",
     "IMAGES/Pasted image 20241011145912.png",
-    "IMAGES/Pasted image 20241010202822.png",
-    "IMAGES/Pasted image 20241009171554.png",
-    "IMAGES/Pasted image 20241007175339.png",
     "Untitled 1.canvas",
+    "Untitled.canvas"
     "Untitled.canvas",
     "IMAGES/Pasted image 20241003033605.png",
     "IMAGES/Pasted image 20241003033533.png",
