@@ -1,58 +1,41 @@
 {
   "main": {
-    "id": "f61514644de39aed",
+    "id": "1077df7fb84d2669",
     "type": "split",
     "children": [
       {
-        "id": "ec99286dfec586c5",
-        "id": "c7bf4d93766407c5",
+        "id": "e70ace95d356981f",
         "type": "tabs",
         "children": [
           {
-            "id": "54fd2ed751a8c218",
-            "id": "bd422c3bc65ec3c5",
+            "id": "dfcea983e3a60f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/Goroutines.md",
-                "file": "OpenAPI Specs/Basics.md",
+                "file": "RUST OS/1.Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goroutines"
-              "title": "Basics"
-            }
-          },
-          {
-            "id": "65a9fbd0fbace787",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/The Rust Programming Language ( PDFDrive ).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The Rust Programming Language ( PDFDrive )"
+              "title": "1.Start"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a28608f2fc73ba45",
+    "id": "3106de997e99aa0f",
     "type": "split",
     "children": [
       {
-        "id": "1ed02a6c1e6d41da",
+        "id": "ada8097553707fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "82652f08e4bc0292",
+            "id": "fa97730414632ad6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +47,7 @@
             }
           },
           {
-            "id": "f55573cc18c36e90",
+            "id": "2490c9b200d08f5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +64,7 @@
             }
           },
           {
-            "id": "56590efef793bec0",
+            "id": "7f718e177ee86979",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5110321044922
+    "width": 200
   },
   "right": {
-    "id": "a0fc0355653b705b",
+    "id": "383d7c7593ec9e2b",
     "type": "split",
     "children": [
       {
-        "id": "92cb0f54361498f5",
+        "id": "e9284f48881e63df",
         "type": "tabs",
         "children": [
           {
-            "id": "f65c2b3ff1551488",
+            "id": "1e6c57a4da92fe68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RUST/FastLinking/Fastlinking.md",
+                "file": "RUST/22. Smart Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fastlinking"
+              "title": "Backlinks for 22. Smart Pointers"
             }
           },
           {
-            "id": "fd1d95670c4835e8",
+            "id": "86c61d06bf7e0b99",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RUST/FastLinking/Fastlinking.md",
+                "file": "RUST/22. Smart Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fastlinking"
+              "title": "Outgoing links from 22. Smart Pointers"
             }
           },
           {
-            "id": "87e3e6ac805164a2",
+            "id": "ca3689e738819ac5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,21 +134,22 @@
             }
           },
           {
-            "id": "3b44c596ee29335c",
+            "id": "7b14fa33828f07a0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "RUST/22. Smart Pointers.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 22. Smart Pointers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,88 +163,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54fd2ed751a8c218",
-  "active": "65a9fbd0fbace787",
+  "active": "dfcea983e3a60f61",
   "lastOpenFiles": [
-    "GO/Goroutines.md",
-    "GO",
-    "excalibrain.md",
-    "Resume.pdf",
-    "Threesome.pdf",
-    "Variables.md",
-    "C++/Explicit Keyword.md",
-    "Vectors/Basics.md",
-    "TODOS/TODO.md",
-    "Kafka/Diagarm.md",
-    "Physics Engine/Intro.md",
-    "OpenAPI Specs/Basics.md",
-    "Kafka/Kafka.md",
-    "RUST/Testing/23.Declarative Macros.md",
-    "Canvas/basics.md",
-    "IMAGES/Pasted image 20241026113037.png",
-    "IMAGES/Pasted image 20241026113020.png",
-    "Canvas/Untitled.md",
-    "Canvas/basic animation.md",
-    "Canvas",
+    "RUST OS/1.Start.md",
+    "RUST OS",
+    "RUST/Rewrite/3.File Exp.md",
+    "RUST/22.SmartPointers Example.md",
     "RUST/22. Smart Pointers.md",
-    "RUST/18. OOP in rust.md",
-    "RUST/_. methods.md",
-    "Books/The Rust Programming Language ( PDFDrive ).pdf",
-    "Books/zero-to-production-in-rust-an-introduction-to-backend-development-9798847211437_compress.pdf",
-    "RUST/16. if Let.md",
-    "RUST/11. Strings.md",
+    "RUST/Rewrite/2.ls.md",
+    "RUST/Rewrite/1.MKDIR.md",
+    "RUST/3. VECTORS.md",
+    "RUST/Rewrite",
     "RUST/10. TUPLES.md",
-    "RUST/FastLinking/Fastlinking.md",
-    "RUST/FastLinking",
-    "DSA/LinkedList/Problems.md",
-    "DSA/LinkedList/Linked List.md",
-    "DSA/LinkedList/Doubly Linked Lists.md",
-    "DSA/LinkedList/LinkedLists.md",
-    "Algorithms/Recursion/Recursion.md",
-    "DSA/Sorting/Quick sort.md",
-    "DSA/Sorting/Merge Sort.md",
-    "DSA/Sorting/Bubble Sort.md",
-    "DataStructures/Hashmaps/Questions/383. Ransom Note.md",
-    "DataStructures/queue/Queues.md",
-    "DataStructures/Stacks/Stacks.md",
-    "DataStructures/Arrays/Sorting/977. Squares of a Sorted Array.md",
-    "Generative AI/1. Gen AI pipeline.md",
-    "IMAGES/Pasted image 20241103110116.png",
-    "IMAGES/Pasted image 20241103110032.png",
-    "DataStructures/Arrays/questions/4. How Many Numbers Are Smaller Than the Current Number.md",
-    "Generative AI",
-    "DataStructures/Arrays/questions/3. Find all Numbers dissappered.md",
-    "RUST/26. Declarative Macros.md",
-    "Untitled.md",
-    "RUST/25. Networking In rust.md",
-    "DataStructures/Arrays/questions",
-    "IMAGES/Pasted image 20241101195937.png",
-    "IMAGES/Pasted image 20241101195859.png",
-    "RUST/crate",
-    "IMAGES/Pasted image 20241031185423.png",
-    "IMAGES/Pasted image 20241031185413.png",
-    "OS theory",
-    "Operating System In RUst",
-    "IMAGES/Pasted image 20241026113037.png",
-    "IMAGES/Pasted image 20241026113020.png",
-    "Canvas",
-    "RUST/15. Generic Types , Traits , Lifetimes.md",
-    "RUST/14. USER INPUT.md",
-    "RUST/13. Structs.md",
     "RUST/12. SLICEs.md",
-    "Books/operating_systems_three_easy_pieces.pdf",
-    "Books/foundations-of-game-engine-development-volume-1-mathematics-1nbsped-0985811749-9780985811747_compress.pdf",
-    "Books/dragon.pdf",
-    "Books/The Rust Programming Language ( PDFDrive ).pdf",
-    "Books/foundations-of-game-engine-development-volume-2-rendering-2-4nbsped-9780985811754_compress.pdf",
-    "OpenAPI Specs",
-    "IMAGES/Pasted image 20241013120425.png",
-    "IMAGES/Pasted image 20241011145912.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
-    "Untitled.canvas",
-    "IMAGES/Pasted image 20241003033605.png",
-    "IMAGES/Pasted image 20241003033533.png",
-    "IMAGES/chrome_0LRqE16XSY.png"
+    "RUST/2. ARRAY.md",
+    "RUST/23. Random Numbers.md",
+    "Microservice Arch/2.API Gateway Pattern.md",
+    "IMAGES/Pasted image 20241109123911.png",
+    "IMAGES/Pasted image 20241109123705.png",
+    "IMAGES/Pasted image 20241109123627.png",
+    "IMAGES/Pasted image 20241109123407.png",
+    "IMAGES/Pasted image 20241109121025.png",
+    "IMAGES/Pasted image 20241109121007.png",
+    "IMAGES/Pasted image 20241109120906.png",
+    "Microservice Arch/1. Microservice patterns.md",
+    "IMAGES/Pasted image 20241109120438.png",
+    "IMAGES/Pasted image 20241109120228.png",
+    "IMAGES/Pasted image 20241109120223.png",
+    "Microservice Arch"
   ]
 }
