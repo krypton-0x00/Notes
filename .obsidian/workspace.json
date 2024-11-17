@@ -1,38 +1,20 @@
 {
   "main": {
-    "id": "1077df7fb84d2669",
+    "id": "b4f4b171b103ce28",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "57cea7f5f0f61095",
+        "id": "785942692f320390",
         "type": "tabs",
         "children": [
           {
-            "id": "364e81cf275bfc1f",
+            "id": "45ee70ca2bb5a490",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-=======
-        "id": "e70ace95d356981f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfcea983e3a60f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RUST OS/1.Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Start"
->>>>>>> d76ff5c6b65ddc1ed5392abadb246ac4827909ae
             }
           }
         ]
@@ -41,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3106de997e99aa0f",
+    "id": "1a2906eb07b2f73f",
     "type": "split",
     "children": [
       {
-        "id": "ada8097553707fcb",
+        "id": "ebec44f2f70f577e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa97730414632ad6",
+            "id": "718e3dc52433bb5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +43,7 @@
             }
           },
           {
-            "id": "2490c9b200d08f5e",
+            "id": "92edf0cf9445031e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +60,7 @@
             }
           },
           {
-            "id": "7f718e177ee86979",
+            "id": "c36b77b82c156068",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +73,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "383d7c7593ec9e2b",
+    "id": "6ecb519b7867230f",
     "type": "split",
     "children": [
       {
-        "id": "e9284f48881e63df",
+        "id": "4b68ad2b04b6f550",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6c57a4da92fe68",
+            "id": "726114ff64ed20ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RUST/22. Smart Pointers.md",
+                "file": "RUST/25. Networking In rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22. Smart Pointers"
+              "title": "Backlinks for 25. Networking In rust"
             }
           },
           {
-            "id": "86c61d06bf7e0b99",
+            "id": "b86b49a3942d7390",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RUST/22. Smart Pointers.md",
+                "file": "RUST/25. Networking In rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22. Smart Pointers"
+              "title": "Outgoing links from 25. Networking In rust"
             }
           },
           {
-            "id": "ca3689e738819ac5",
+            "id": "2e8ba226c9f3b3a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,15 +130,15 @@
             }
           },
           {
-            "id": "7b14fa33828f07a0",
+            "id": "a1b6b4104c467009",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "RUST/22. Smart Pointers.md"
+                "file": "RUST/25. Networking In rust.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22. Smart Pointers"
+              "title": "Outline of 25. Networking In rust"
             }
           }
         ]
@@ -177,81 +159,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "364e81cf275bfc1f",
+  "active": "45ee70ca2bb5a490",
   "lastOpenFiles": [
+    "Linux/Reconfig removed grub.md",
+    "CS361 Systems programming/ELF.md",
+    "Linux",
+    "IMAGES/Pasted image 20241117133028.png",
+    "IMAGES/Pasted image 20241117132657.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "C/Pointer Arthimitic , Cache hit, Linkedlists vs arrays.md",
+    "CS361 Systems programming",
+    "IMAGES/Pasted image 20241117122143.png",
+    "IMAGES/Pasted image 20241117121942.png",
+    "IMAGES/Pasted image 20241117121822.png",
+    "IMAGES/Pasted image 20241117121307.png",
     "HandsonRust/Api Gateway.md",
-    "C/Memory.md",
-    "Typescript/Merging Namespaces.md",
-    "C",
-    "Typescript/Declare and namespaces.md",
-    "Typescript",
-    "OpenAPI Specs/Basics.md",
-    "OS theory/2.Booting.md",
-    "OS theory/1.Basics.md",
-    "RUST/8. Enums and pattern matching.md",
-    "Kafka/Diagarm.md",
-    "Threesome.pdf",
-    "Kafka/Kafka.md",
-    "DSA/Sorting/Merge Sort.md",
-    "DSA/Sorting/Bubble Sort.md",
-    "HandsonRust/Time Module and Chrono Crate.md",
-    "DSA/Sorting/Quick sort.md",
-    "HandsonRust/Iterators.md",
-    "GO/Goroutines.md",
-    "HandsonRust",
-    "GO",
-=======
-  "active": "dfcea983e3a60f61",
-  "lastOpenFiles": [
-    "RUST OS/1.Start.md",
-    "RUST OS",
-    "RUST/Rewrite/3.File Exp.md",
-    "RUST/22.SmartPointers Example.md",
->>>>>>> d76ff5c6b65ddc1ed5392abadb246ac4827909ae
-    "RUST/22. Smart Pointers.md",
-    "RUST/Rewrite/2.ls.md",
-    "RUST/Rewrite/1.MKDIR.md",
-    "RUST/3. VECTORS.md",
-    "RUST/Rewrite",
-    "RUST/10. TUPLES.md",
-<<<<<<< HEAD
-    "RUST/FastLinking/Fastlinking.md",
-    "RUST/FastLinking",
-    "DSA/LinkedList/Problems.md",
-    "DSA/LinkedList/Linked List.md",
-    "DSA/LinkedList/Doubly Linked Lists.md",
-    "IMAGES/Pasted image 20241103110116.png",
-    "IMAGES/Pasted image 20241103110032.png",
-    "Generative AI",
-    "DataStructures/Arrays/questions",
-    "IMAGES/Pasted image 20241101195937.png",
-    "IMAGES/Pasted image 20241101195859.png",
-    "IMAGES/Pasted image 20241031185423.png",
-    "IMAGES/Pasted image 20241031185413.png",
-    "IMAGES/Pasted image 20241026113037.png",
-    "IMAGES/Pasted image 20241026113020.png",
-    "IMAGES/Pasted image 20241013120425.png",
-    "IMAGES/Pasted image 20241011145912.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
-=======
-    "RUST/12. SLICEs.md",
-    "RUST/2. ARRAY.md",
-    "RUST/23. Random Numbers.md",
-    "Microservice Arch/2.API Gateway Pattern.md",
-    "IMAGES/Pasted image 20241109123911.png",
-    "IMAGES/Pasted image 20241109123705.png",
-    "IMAGES/Pasted image 20241109123627.png",
-    "IMAGES/Pasted image 20241109123407.png",
-    "IMAGES/Pasted image 20241109121025.png",
-    "IMAGES/Pasted image 20241109121007.png",
-    "IMAGES/Pasted image 20241109120906.png",
-    "Microservice Arch/1. Microservice patterns.md",
-    "IMAGES/Pasted image 20241109120438.png",
-    "IMAGES/Pasted image 20241109120228.png",
-    "IMAGES/Pasted image 20241109120223.png",
-    "Microservice Arch"
->>>>>>> d76ff5c6b65ddc1ed5392abadb246ac4827909ae
+    "RUST/25. Networking In rust.md",
+    "RUST/26. Declarative Macros.md"
   ]
 }
