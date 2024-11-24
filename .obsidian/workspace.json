@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "785942692f320390",
+        "id": "e4e892c99f056361",
         "type": "tabs",
         "children": [
           {
-            "id": "45ee70ca2bb5a490",
+            "id": "f8d6d4c7ab20d35b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HandsonRust/Api Gateway.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Api Gateway"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ecb519b7867230f",
@@ -159,21 +164,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45ee70ca2bb5a490",
+  "active": "f8d6d4c7ab20d35b",
   "lastOpenFiles": [
-    "Linux/Reconfig removed grub.md",
-    "CS361 Systems programming/ELF.md",
-    "Linux",
-    "IMAGES/Pasted image 20241117133028.png",
-    "IMAGES/Pasted image 20241117132657.png",
-    "Untitled 1.md",
-    "Untitled.md",
+    "HandsonRust/Middlewares in actix-web.md",
+    "RUST/crate/serde_json.md",
+    "HandsonRust/Threading.md",
+    "C/string to number.md",
+    "IMAGES/Pasted image 20241122115112.png",
+    "IMAGES/Pasted image 20241122115009.png",
+    "IMAGES/Pasted image 20241122114931.png",
+    "IMAGES/Pasted image 20241122114711.png",
+    "IMAGES/Pasted image 20241122114607.png",
+    "IMAGES/Pasted image 20241122114554.png",
+    "CS361 Systems programming/2.Symbol Realocation.md",
+    "IMAGES/Pasted image 20241121153341.png",
+    "IMAGES/Pasted image 20241121153330.png",
+    "IMAGES/Pasted image 20241121153230.png",
+    "CS361 Systems programming/1 .How to linkers resolve symbols.md",
+    "IMAGES/Pasted image 20241121151329.png",
+    "LogicGates and computers/Gates.md",
     "C/Pointer Arthimitic , Cache hit, Linkedlists vs arrays.md",
+    "LogicGates and computers",
+    "C/Memory.md",
+    "C/Lvalues and Rvalues.md",
+    "OS theory/3.OS.md",
+    "OS theory/4.Types of kernels.md",
+    "OS theory/2.Booting.md",
+    "OS theory/1.Basics.md",
+    "C++/Singleton Pattern in C++.md",
+    "College/C Programming/Trimister 1/C Std Lib (libc).md",
+    "RUST OS/1.Start.md",
+    "CS361 Systems programming/Concurrency.md",
+    "Books/Getting Started with Actix Web in Rust.pdf",
+    "Untitled",
+    "Linux/Reconfig removed grub.md",
+    "Linux",
+    "Untitled 1.md",
     "CS361 Systems programming",
-    "IMAGES/Pasted image 20241117122143.png",
-    "IMAGES/Pasted image 20241117121942.png",
-    "IMAGES/Pasted image 20241117121822.png",
-    "IMAGES/Pasted image 20241117121307.png",
     "HandsonRust/Api Gateway.md",
     "RUST/25. Networking In rust.md",
     "RUST/26. Declarative Macros.md"
