@@ -1,9 +1,9 @@
 {
   "accentColor": "#ee00ff",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Tokyo Night",
   "baseFontSize": 25,
   "theme": "obsidian",
-  "textFontFamily": "Cascadia Mono PL,Inter",
+  "textFontFamily": "Inter,Arial",
   "monospaceFontFamily": "Cascadia Mono",
   "interfaceFontFamily": "Inter"
 }

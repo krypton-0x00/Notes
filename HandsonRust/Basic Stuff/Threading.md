@@ -359,3 +359,53 @@ Thread 1 has an error
 45
 
 ```
+
+# Message Passing with MPSC Channels (queue)
+
+
+MPSC -> Multiple producer single consumer
+```rust
+use std::sync::mpsc;
+
+fn test_channels() {
+    let (tx, rx) = mpsc::channel::<u8>();
+
+    let send_status1 = tx.send(100);
+    drop(rx); //lets drop the rx so that the send fails.
+    let send_status2 = tx.send(12);
+    tx.send(1);
+
+    println!("Send success: {}", send_status1.is_ok()); //true
+
+    println!("Send2 success: {}", send_status2.is_ok()) //false
+}
+
+fn main() {
+    test_channels();
+}
+```
+Receiving
+```rust
+use std::sync::mpsc;
+use std::time::Duration;
+
+fn test_channels() {
+    let (tx, rx) = mpsc::channel::<u8>();
+
+    let send_status1 = tx.send(100);
+    println!("Send success: {}", send_status1.is_ok()); //true
+
+    //Receive
+    let reveive_result = rx.recv_timeout(Duration::from_millis(300)); //300 ms is the max time to wait for a message
+    println!(
+        "Reveived: {} , Message: {}",
+        reveive_result.is_ok(),
+        reveive_result.unwrap()
+    ); //True, 100
+}
+
+fn main() {
+    test_channels();
+}
+```
+
