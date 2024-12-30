@@ -48,8 +48,5 @@ public:
         return maxSum;
     }
 };
-
- 
-
 ```
 
