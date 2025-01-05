@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "83fa61a3c146cfeb",
+        "id": "0988fd62793e2f14",
         "type": "tabs",
         "children": [
           {
-            "id": "9847a19dac79b6a4",
+            "id": "45e03f5463f73ef0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/The Rust Programming Language ( PDFDrive ).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Rust Programming Language ( PDFDrive )"
+            }
+          },
+          {
+            "id": "4190b34b6b84cae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Programming/Mazes in programming.md",
+                "file": "HandsonRust/Rust in Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mazes in programming"
+              "title": "Rust in Docker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,20 +176,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9847a19dac79b6a4",
+  "active": "4190b34b6b84cae6",
   "lastOpenFiles": [
+    "Books/114937876_p0_master1200.jpg",
+    "Books/114937876_p0_master1200.jpg.crdownload",
+    "IMAGES/Pasted image 20250104030715.png",
+    "HandsonRust/Rust in Docker.md",
+    "Books/The Rust Programming Language ( PDFDrive ).pdf",
+    "HandsonRust/Lifetime Rules.md",
+    "Books/Jon Gjengset - Rust for Rustaceans_ Idiomatic Programming for Experienced Developers (2021, No Starch Press) (1).pdf",
+    "RUST/FastLinking/Fastlinking.md",
+    "Books/Hands On Rust.pdf",
+    "Real Programming/Mazes in programming.md",
     "IMAGES/Pasted image 20241231052016.png",
     "Books/Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition) [EnglishOnlineClub.com].pdf",
-    "Real Programming/Mazes in programming.md",
     "Real Programming",
     "Books/atc23-jiang-yanyan-ResearchPapers.pdf",
     "Books/Design Patterns in C# Sample (4).pdf",
     "Books/dragon.pdf",
     "Books/foundations-of-game-engine-development-volume-2-rendering-2-4nbsped-9780985811754_compress.pdf",
-    "Books/Getting Started with Actix Web in Rust.pdf",
-    "Books/Hands On Rust.pdf",
-    "Books/operating_systems_three_easy_pieces.pdf",
-    "Books/The Rust Programming Language ( PDFDrive ).pdf",
     "Machine Learning/Pandas.md",
     "System Design/Reliability, Fault Tolerance, Redundency.md",
     "Python DSA/LinkedList.md",
@@ -191,8 +209,6 @@
     "IMAGES/Pasted image 20241221183335.png",
     "IMAGES/Pasted image 20241221183259.png",
     "IMAGES/Pasted image 20241221180610.png",
-    "IMAGES/Pasted image 20241221172004.png",
-    "IMAGES/Pasted image 20241221170957.png",
     "Project/Jupyter Notebook file.md",
     "Project/Innerworkings.md",
     "Project/Drawing 2024-12-20 20.58.40.excalidraw.md",
@@ -208,9 +224,6 @@
     "DSA/Arrays/Questions/Majority Element/problem.md",
     "DSA/Arrays/Questions/Intersection of Two Arrays/Problem.md",
     "DSA/Arrays/Kadane`s Algorithm/Kadane`s Algorithm.md",
-    "Todo.md",
-    "C#/Dotnet/Structure.md",
-    "C#/Records in CS.md",
     "HandsonRust/Data structures/Untitled.canvas"
   ]
 }
