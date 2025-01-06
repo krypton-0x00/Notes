@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0988fd62793e2f14",
+        "id": "784a73425e78ebcf",
         "type": "tabs",
         "children": [
           {
-            "id": "45e03f5463f73ef0",
+            "id": "5cdb17b7e8ef60c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/The Rust Programming Language ( PDFDrive ).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The Rust Programming Language ( PDFDrive )"
-            }
-          },
-          {
-            "id": "4190b34b6b84cae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsonRust/Rust in Docker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rust in Docker"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Mutexes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,13 +159,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4190b34b6b84cae6",
+  "active": "5cdb17b7e8ef60c1",
   "lastOpenFiles": [
+    "HandsonRust/Diesel ORM.md",
+    "Books/The Rust Programming Language ( PDFDrive ).pdf",
+    "HandsonRust/Cargo and Crates.io.md",
+    "HandsonRust/Smart Pointers/RC,RefCell, Weak , Memory Leaks.md",
+    "HandsonRust/Examples",
+    "HandsonRust/Smart Pointers/Recursive types with box<T> and Con List.md",
+    "HandsonRust/Smart Pointers/Deref Coercion.md",
+    "HandsonRust/Smart Pointers/Cell,UnsafeCell , Atomic, Cow.md",
+    "HandsonRust/Smart Pointers/cell.md",
+    "HandsonRust/TraitObject/Dynamic Dispatch.md",
+    "HandsonRust/Concurrency/1.TLDR.md",
+    "HandsonRust/TraitObject",
+    "HandsonRust/Smart Pointers/Tree Data Structure using Smart Pointers.md",
+    "HandsonRust/Concurrency",
+    "IMAGES/Pasted image 20250105201548.png",
+    "IMAGES/Pasted image 20250105195235.png",
+    "IMAGES/Pasted image 20250105195132.png",
+    "IMAGES/Pasted image 20250105182325.png",
+    "HandsonRust/Iterators.md",
+    "HandsonRust/Rust in Docker.md",
     "Books/114937876_p0_master1200.jpg",
     "Books/114937876_p0_master1200.jpg.crdownload",
     "IMAGES/Pasted image 20250104030715.png",
-    "HandsonRust/Rust in Docker.md",
-    "Books/The Rust Programming Language ( PDFDrive ).pdf",
     "HandsonRust/Lifetime Rules.md",
     "Books/Jon Gjengset - Rust for Rustaceans_ Idiomatic Programming for Experienced Developers (2021, No Starch Press) (1).pdf",
     "RUST/FastLinking/Fastlinking.md",
@@ -192,9 +193,6 @@
     "Books/Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition) [EnglishOnlineClub.com].pdf",
     "Real Programming",
     "Books/atc23-jiang-yanyan-ResearchPapers.pdf",
-    "Books/Design Patterns in C# Sample (4).pdf",
-    "Books/dragon.pdf",
-    "Books/foundations-of-game-engine-development-volume-2-rendering-2-4nbsped-9780985811754_compress.pdf",
     "Machine Learning/Pandas.md",
     "System Design/Reliability, Fault Tolerance, Redundency.md",
     "Python DSA/LinkedList.md",
@@ -204,26 +202,11 @@
     "IMAGES/Pasted image 20241221184244.png",
     "IMAGES/Pasted image 20241221183947.png",
     "IMAGES/Pasted image 20241221183804.png",
-    "IMAGES/Pasted image 20241221183703.png",
-    "IMAGES/Pasted image 20241221183637.png",
-    "IMAGES/Pasted image 20241221183335.png",
-    "IMAGES/Pasted image 20241221183259.png",
-    "IMAGES/Pasted image 20241221180610.png",
     "Project/Jupyter Notebook file.md",
     "Project/Innerworkings.md",
     "Project/Drawing 2024-12-20 20.58.40.excalidraw.md",
     "Project/Action.py.md",
     "C#/LINQ (Language Integrated Query).md",
-    "Project/Overview.md",
-    "C#/Dotnet/Auth in Microservices.md",
-    "DSA/Arrays/Questions/Rotate Array (MED)/Problem.md",
-    "DSA/Arrays/Questions/Move Non Zeros/Move Non Zero.md",
-    "DSA/Arrays/Questions/Merge Sorted Array/Problem.md",
-    "DSA/Arrays/Questions/Maximum Subarray/MaxSubArray.md",
-    "DSA/Arrays/Questions/Maximum Subarray/Maximum sub array Sum.md",
-    "DSA/Arrays/Questions/Majority Element/problem.md",
-    "DSA/Arrays/Questions/Intersection of Two Arrays/Problem.md",
-    "DSA/Arrays/Kadane`s Algorithm/Kadane`s Algorithm.md",
     "HandsonRust/Data structures/Untitled.canvas"
   ]
 }
