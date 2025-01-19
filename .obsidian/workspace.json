@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a593bcab4c2f666",
+        "id": "1dc5df9a6bf74490",
         "type": "tabs",
         "children": [
           {
-            "id": "49603fe7924f7d33",
+            "id": "bde03964750951ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Game Engine Dev/Game-engine-architecture.pdf"
+                "file": "Gen AI/1. Foundations in NLP..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Game-engine-architecture"
+              "icon": "lucide-file",
+              "title": "1. Foundations in NLP."
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "6ecb519b7867230f",
@@ -152,17 +155,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "49603fe7924f7d33",
+  "active": "bde03964750951ea",
   "lastOpenFiles": [
+    "IMAGES/Pasted image 20250119083322.png",
+    "IMAGES/Pasted image 20250119083053.png",
+    "IMAGES/Pasted image 20250119082237.png",
+    "IMAGES/Pasted image 20250119081615.png",
+    "IMAGES/Pasted image 20250119081451.png",
+    "Todos.md",
+    "Gen AI/1. Foundations in NLP..md",
+    "Gen AI",
+    "Game Engines/1.window creation (GLFW).md",
+    "Game Engines/Roadmap.md",
+    "Books/Game Engine Dev/Game-engine-architecture.pdf",
     "Books/vulkan_tutorial_en.pdf",
     "Books/vulkan_tutorial_en.pdf.crdownload",
     "Books/Asynchronous Programming in Rust.pdf",
@@ -174,11 +188,7 @@
     "HandsonRust/Async RUST/5. Network, Disk, Read and Write in Async Context.md",
     "HandsonRust/Async RUST/4. Recursion , Send Static bounds,  Select.md",
     "HandsonRust/Async RUST/3.Blocking Computation.md",
-    "Books/Path/1.zero-to-production-in-rust-an-introduction-to-backend-development-9798847211437_compress.pdf",
-    "Untitled.md",
     "HandsonRust/CICD/GITHUB ACTIONS.md",
-    "Books/ongoing/Grokking-Algorithms.pdf",
-    "HandsonRust/CICD",
     "HandsonRust/Smart Pointers/Cell,UnsafeCell , Atomic,.md",
     "HandsonRust/Basic Stuff/Iterators.md",
     "HandsonRust/Basic Stuff/Generics.md",
@@ -196,19 +206,12 @@
     "College/Linear Algebra/2.Dotproduct.md",
     "College/Linear Algebra/Drawing 2025-01-12 19.16.28.excalidraw.md",
     "HandsonRust/Smart Pointers/Deref Coercion.md",
-    "HandsonRust/Smart Pointers/Tree Data Structure using Smart Pointers.md",
-    "HandsonRust/Smart Pointers/Recursive types with box<T> and Con List.md",
-    "HandsonRust/Smart Pointers/RC,RefCell, Weak , Memory Leaks.md",
     "IMAGES/Pasted image 20250112194859.png",
     "IMAGES/Pasted image 20250112194750.png",
     "IMAGES/Pasted image 20250112194613.png",
     "IMAGES/Pasted image 20250112194606.png",
     "IMAGES/Pasted image 20250112193948.png",
     "IMAGES/Pasted image 20250112193911.png",
-    "IMAGES/Pasted image 20250112193803.png",
-    "IMAGES/Pasted image 20250112193345.png",
-    "IMAGES/Pasted image 20250112193302.png",
-    "IMAGES/Pasted image 20250112193138.png",
     "HandsonRust/Data structures/Untitled.canvas"
   ]
 }
