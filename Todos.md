@@ -1,6 +1,6 @@
-1. [ ] Job
+1. [x] Job
 2. [ ] Rust.
 3. [ ] Cracking the coding interview.
-4. [ ] Lang Chain.
+4. [ ] GEN AI.
 5. [ ] College
 
